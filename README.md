@@ -1,8 +1,8 @@
 # ARI application
 
 ARI is an asynchronous API that allows developers to build communications applications by exposing the raw primitive objects in Asterisk - channels, bridges, endpoints, media, etc. - through an intuitive REST interface. The state of the objects being controlled by the user are conveyed via JSON events over a WebSocket. <br/> 
-More information about ARI could be find here https://wiki.asterisk.org/wiki/pages/viewpage.action?pageId=29395573 <br/> 
-This application was built using library, which could be find here https://github.com/CyCoreSystems/ari <br/> 
+More information about ARI could be found here https://wiki.asterisk.org/wiki/pages/viewpage.action?pageId=29395573 <br/> 
+This application was built using the library, which could be found here https://github.com/CyCoreSystems/ari <br/> 
 
 ## Features
 
